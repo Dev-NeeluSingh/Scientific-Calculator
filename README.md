@@ -31,3 +31,5 @@
 |---|---|---|---|
 # Github Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-NeeluSingh&repo=Flashlight-App&show_owner=true)](https://github.com/Dev-NeeluSingh/Flashlight-App)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-NeeluSingh&repo=Runtime-Notification-Permission)](https://github.com/Dev-NeeluSingh/Runtime-Notification-Permission)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Dev-NeeluSingh&repo=Fullscreen-Activity-Android-11-Above)](Fullscreen-Activity-Android-11-Above)
