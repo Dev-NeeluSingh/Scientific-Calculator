@@ -25,3 +25,5 @@
 <a href="https://github.com/Dev-NeeluSingh/Scientific-Calculator/blob/master/Screenshot%206.png">
       <img alt="Qries" src="https://github.com/Dev-NeeluSingh/Scientific-Calculator/blob/master/Screenshot%206.png" width=240" height="480">
 </a>
+# Tools
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) |
