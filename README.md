@@ -3,7 +3,8 @@
 2. Tringnometry Calculation
 3. A replica of Color OS 7 calculator 
 # Library Used
-### [Lottie Animation](https://lottiefiles.com)> - used for splash screen
+### [Lottie Animation](https://lottiefiles.com) - used for splash screen
+### [Math Parser](https://github.com/mariuszgromada/MathParser.org-mXparser) - used for calculations
 </br>
 <a style="text-decoration:none" href="https://github.com/mariuszgromada/MathParser.org-mXparser"><b>2. Math parser</b></a> - for calculations
 # Screenshots
