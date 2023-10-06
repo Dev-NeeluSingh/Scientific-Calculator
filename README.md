@@ -3,7 +3,7 @@
 2. Tringnometry Calculation
 3. A replica of Color OS 7 calculator 
 # Library Used
-<a href="https://lottiefiles.com"><b>1.Lottie animation</b></b> - used for splash screen
+<a href="https://lottiefiles.com"><b>1.Lottie animation</b></a> - used for splash screen
 <b>2.Math parser</b> - for calculations
 # Screenshots
 <a href="https://github.com/Dev-NeeluSingh/Scientific-Calculator/blob/master/Screenshot%201.png">
