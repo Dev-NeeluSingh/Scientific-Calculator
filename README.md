@@ -4,6 +4,7 @@
 3. A replica of Color OS 7 calculator 
 # Library Used
 <a href="https://lottiefiles.com"><b>1. Lottie animation</b></a> - used for splash screen
+</br>
 <a href="https://github.com/mariuszgromada/MathParser.org-mXparser"><b>2.Math parser</b></a> - for calculations
 # Screenshots
 <a href="https://github.com/Dev-NeeluSingh/Scientific-Calculator/blob/master/Screenshot%201.png">
