@@ -15,6 +15,7 @@
 <a href="https://github.com/Dev-NeeluSingh/Scientific-Calculator/blob/master/Screenshot%203.png">
       <img alt="Qries" src="https://github.com/Dev-NeeluSingh/Scientific-Calculator/blob/master/Screenshot%203.png" width=240" height="480">
 </a>
+</br>
 <a href="https://github.com/Dev-NeeluSingh/Scientific-Calculator/blob/master/Screenshot%204.png">
       <img alt="Qries" src="https://github.com/Dev-NeeluSingh/Scientific-Calculator/blob/master/Screenshot%204.png" width=240" height="480">
 </a>
